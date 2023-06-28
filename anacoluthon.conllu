@@ -1,0 +1,23 @@
+# text = ā ye tasthuḥ pṛṣatīṣu śrutāsu sukheṣu rudrāḥ marutaḥ ratheṣu vanā cit ugrā jihate ni vaḥ bhiyā pṛthivī cit rejate parvataḥ cit
+# sent_id = 584608_1
+1	ā	ā	ADV	_	_	3	advmod	_	LemmaId=213041|OccId=4468902|Unsandhied=ā|Annotator=Ol|SyntaxAnnotation=gold|Ref=5.60
+2	ye	yad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	LemmaId=37877|OccId=4468766|Unsandhied=ye|Annotator=Ol|SyntaxAnnotation=gold|Ref=5.60
+3	tasthuḥ	sthā	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	15	acl:relcl	_	LemmaId=157340|OccId=4468767|Unsandhied=tasthuḥ|Annotator=Ol|SyntaxAnnotation=gold|Ref=5.60
+4	pṛṣatīṣu	pṛṣatī	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	3	obl:loc	_	LemmaId=150076|OccId=4468768|Unsandhied=pṛṣatīṣu|Annotator=Ol|SyntaxAnnotation=gold|Ref=5.60
+5	śrutāsu	śru	VERB	_	Case=Loc|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	4	acl:ptcp	_	LemmaId=157409|OccId=4468769|Unsandhied=śrutāsu|Annotator=Ol|SyntaxAnnotation=gold|Ref=5.60
+6	sukheṣu	sukha	ADJ	_	Case=Loc|Gender=Masc|Number=Plur	9	amod	_	LemmaId=106814|OccId=4468770|Unsandhied=sukheṣu|Annotator=Ol|SyntaxAnnotation=gold|Ref=5.60
+7	rudrāḥ	rudra	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	nmod:appos	_	LemmaId=71571|OccId=4468771|Unsandhied=rudrāḥ|Annotator=Ol|SyntaxAnnotation=gold|Ref=5.60
+8	marutaḥ	marut	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	7	conj	_	LemmaId=37014|OccId=4468772|Unsandhied=marutaḥ|Annotator=Ol|SyntaxAnnotation=gold|Ref=5.60|Synset=deity
+9	ratheṣu	ratha	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	4	conj	_	LemmaId=66339|OccId=4468773|Unsandhied=ratheṣu|Annotator=Ol|Punctuation=comma|SyntaxAnnotation=gold|Ref=5.60
+10	vanā	vana	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	13	nsubj	_	LemmaId=68470|OccId=4468774|Unsandhied=vanā|Annotator=Ol|SyntaxAnnotation=gold|Ref=5.60
+11	cit	cit	PART	_	_	10	discourse	_	LemmaId=217142|OccId=4468775|Unsandhied=cit|Annotator=Ol|SyntaxAnnotation=gold|Ref=5.60
+12	ugrā	ugra	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	10	amod	_	LemmaId=64249|OccId=4468776|Unsandhied=ugrā|Annotator=Ol|SyntaxAnnotation=gold|Ref=5.60
+13	jihate	hā	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	LemmaId=158492|OccId=4468777|Unsandhied=jihate|Annotator=Ol|SyntaxAnnotation=gold|Ref=5.60
+14	ni	ni	ADV	_	_	13	advmod	_	LemmaId=216732|OccId=4468778|Unsandhied=ni|Annotator=Ol|SyntaxAnnotation=gold|Ref=5.60
+15	vaḥ	tvad	PRON	_	Case=Gen|Number=Plur	16	nmod	_	LemmaId=37880|OccId=4468779|Unsandhied=vaḥ|Annotator=Ol|SyntaxAnnotation=gold|Ref=5.60
+16	bhiyā	bhī	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	13	obl	_	LemmaId=50284|OccId=4468780|Unsandhied=bhiyā|Annotator=Ol|Punctuation=comma|SyntaxAnnotation=gold|Ref=5.60
+17	pṛthivī	pṛthivī	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	LemmaId=150027|OccId=4468781|Unsandhied=pṛthivī|Annotator=Ol|SyntaxAnnotation=gold|Ref=5.60
+18	cit	cit	PART	_	_	17	discourse	_	LemmaId=217142|OccId=4468782|Unsandhied=cit|Annotator=Ol|SyntaxAnnotation=gold|Ref=5.60
+19	rejate	rej	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	13	conj	_	LemmaId=218689|OccId=4468783|Unsandhied=rejate|Annotator=Ol|Punctuation=comma|SyntaxAnnotation=gold|Ref=5.60
+20	parvataḥ	parvata	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	conj	_	LemmaId=20217|OccId=4468784|Unsandhied=parvataḥ|Annotator=Ol|SyntaxAnnotation=gold|Ref=5.60
+21	cit	cit	PART	_	_	20	discourse	_	LemmaId=217142|OccId=4468785|Unsandhied=cit|Annotator=Ol|Punctuation=fullStop|SyntaxAnnotation=gold|Ref=5.60
